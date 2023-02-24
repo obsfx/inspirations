@@ -6,3 +6,4 @@
 - https://ui.land/resources
 - https://brianlovin.com/
 - https://www.campsite.design/
+- https://margelo.io/
