@@ -14,3 +14,4 @@
 - https://www.pointfree.co/episodes/ep189-tour-of-parser-printers-api-clients-for-free
 - https://twitter.com/leeerob/status/1569733495098060800
 - http://ekremelmas.com/
+- https://maggieappleton.com/
