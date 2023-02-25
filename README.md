@@ -12,3 +12,4 @@
 - https://rsms.me/sol-a-sunny-little-virtual-machine
 - https://www.stephencelis.com/
 - https://www.pointfree.co/episodes/ep189-tour-of-parser-printers-api-clients-for-free
+- https://twitter.com/leeerob/status/1569733495098060800
