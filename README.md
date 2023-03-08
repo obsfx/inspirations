@@ -18,3 +18,4 @@
 - https://filipe.work/
 - https://actuated.dev/
 - https://ueberdosis.io/
+- https://loops.so/
