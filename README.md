@@ -23,3 +23,4 @@
 - https://tryklack.com/
 - https://logsnag.com/
 - https://www.wordnote.app/blog/why-i-built-dictionary-app
+- https://twitter.com/jamesm/status/1643233661540618242
