@@ -21,3 +21,4 @@
 - https://loops.so/
 - https://josem.co/selling-my-side-project/
 - https://tryklack.com/
+- https://logsnag.com/
