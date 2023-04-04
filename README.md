@@ -22,3 +22,4 @@
 - https://josem.co/selling-my-side-project/
 - https://tryklack.com/
 - https://logsnag.com/
+- https://www.wordnote.app/blog/why-i-built-dictionary-app
