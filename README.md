@@ -24,3 +24,4 @@
 - https://logsnag.com/
 - https://www.wordnote.app/blog/why-i-built-dictionary-app
 - https://twitter.com/jamesm/status/1643233661540618242
+- https://twitter.com/helvetiica/status/1596154515623129089?t=UwRXE-k9bSSaF5Kkn_A4Dw&s=19
