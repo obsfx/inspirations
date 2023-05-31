@@ -32,3 +32,4 @@
 - https://www.doingcoolstuff.xyz/
 - https://mrsk.dev/
 - https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option
+- https://plane.so/
