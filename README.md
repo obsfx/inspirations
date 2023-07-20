@@ -34,3 +34,4 @@
 - https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option
 - https://plane.so/
 - https://ought.org/
+- Software Construction - http://web.mit.edu/6.031/www/fa20/
