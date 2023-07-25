@@ -35,3 +35,5 @@
 - https://plane.so/
 - https://ought.org/
 - Software Construction - http://web.mit.edu/6.031/www/fa20/
+- https://twitter.com/devongovett/status/1683882802977312770
+- https://react-spectrum.adobe.com/react-aria/
