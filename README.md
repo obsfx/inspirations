@@ -39,3 +39,4 @@
 - https://react-spectrum.adobe.com/react-aria/
 - https://twitter.com/nilshoenson/status/1684890625207123968
 - https://agenda.com/
+- https://precedent.dev/
