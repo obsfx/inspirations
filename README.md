@@ -47,3 +47,4 @@
 - https://twitter.com/alvishbaldha/status/1689157771277811712
 - https://textfx.withgoogle.com/
 - https://www.simonfosters.website/about
+- https://twitter.com/oykun/status/1692164390936547415/photo/2
