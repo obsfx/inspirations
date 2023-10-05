@@ -56,3 +56,5 @@
 - https://mui.com/joy-ui/react-autocomplete/
 - https://uidesigndaily.com/
 - https://twitter.com/layers_to/status/1705675911515754892
+- https://hex22.org/
+- https://www.gndclouds.cc/about
