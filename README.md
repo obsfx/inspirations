@@ -63,3 +63,4 @@
 - https://www.aeriform.io/diarial#ares
 - https://rosefinchapp.com/
 - https://nota.md/
+- https://github.com/ueberdosis/glyphfinder
