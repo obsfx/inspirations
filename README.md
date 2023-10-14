@@ -64,3 +64,4 @@
 - https://rosefinchapp.com/
 - https://nota.md/
 - https://github.com/ueberdosis/glyphfinder
+- https://getbrandy.io/
