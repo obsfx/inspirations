@@ -61,3 +61,5 @@
 - https://avanier.dev/
 - https://craze.co.uk/famicase.html
 - https://www.aeriform.io/diarial#ares
+- https://rosefinchapp.com/
+- https://nota.md/
