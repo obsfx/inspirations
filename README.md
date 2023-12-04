@@ -67,3 +67,4 @@
 - https://getbrandy.io/
 - https://privatepkgs.com/
 - https://twitter.com/kepano/status/1602773345627348993
+- https://twitter.com/openpurpose/status/1731705056469356611
