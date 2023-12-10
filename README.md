@@ -70,5 +70,5 @@
 - https://twitter.com/openpurpose/status/1731705056469356611
 - https://www.alasdairmonk.com/
 - https://www.yasmins.site/
-- https://henryheffernan.com/https://henryheffernan.com/https://henryheffernan.com/
+- https://henryheffernan.com
 - https://dub.co/
