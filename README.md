@@ -73,3 +73,4 @@
 - https://henryheffernan.com
 - https://dub.co/
 - https://a-fresh.website/
+- https://www.measuredhq.com/
