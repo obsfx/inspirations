@@ -75,3 +75,5 @@
 - https://a-fresh.website/
 - https://www.measuredhq.com/
 - https://minimal.gallery/
+- https://godly.website/
+- https://www.samara.com/
