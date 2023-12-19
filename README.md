@@ -74,3 +74,4 @@
 - https://dub.co/
 - https://a-fresh.website/
 - https://www.measuredhq.com/
+- https://minimal.gallery/
