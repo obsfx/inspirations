@@ -77,3 +77,4 @@
 - https://minimal.gallery/
 - https://godly.website/
 - https://www.samara.com/
+- https://www.val.town/examples/use-cases
