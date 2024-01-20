@@ -83,3 +83,4 @@
 - https://www.bryntaylor.co.uk/?ref=godly
 - https://haptic.app/
 - https://hovrly.com/
+- https://tandem.chat/
