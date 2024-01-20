@@ -81,3 +81,4 @@
 - https://strut.so/
 - https://www.jarekceborski.com/
 - https://www.bryntaylor.co.uk/?ref=godly
+- https://haptic.app/
