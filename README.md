@@ -84,5 +84,4 @@
 - https://haptic.app/
 - https://hovrly.com/
 - https://tandem.chat/
-- https://www.deck.gallery/about
 - https://architecturenotes.co/redis/
