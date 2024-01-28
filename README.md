@@ -85,3 +85,5 @@
 - https://hovrly.com/
 - https://tandem.chat/
 - https://architecturenotes.co/redis/
+- https://archive.saman.design/
+- https://icons.saman.design/
