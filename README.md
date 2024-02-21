@@ -87,3 +87,4 @@
 - https://architecturenotes.co/redis/
 - https://archive.saman.design/
 - https://icons.saman.design/
+- https://deadsimplesites.com/
