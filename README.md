@@ -89,3 +89,4 @@
 - https://icons.saman.design/
 - https://deadsimplesites.com/
 - https://reboot.studio/
+- https://www.colorsandfonts.com/
