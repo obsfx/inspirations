@@ -92,3 +92,5 @@
 - https://www.colorsandfonts.com/
 - https://alexandersandberg.com/balance/
 - https://theuselessweb.com/
+- https://notebooklm.google.com/
+- https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/
