@@ -94,3 +94,5 @@
 - https://theuselessweb.com/
 - https://notebooklm.google.com/
 - https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/
+- https://x.com/sneqqy/status/1841457239225176372
+- https://x.com/sneqqy/status/1841506168557981828
