@@ -108,3 +108,4 @@
 - https://potura.co/
 - https://www.dumbpipe.dev/
 - https://zoltan.co/37signals/
+- https://jan.ai/
