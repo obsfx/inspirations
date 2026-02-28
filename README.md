@@ -114,3 +114,5 @@
 - https://make3.co/work/woemeter
 - https://pinboard.in/tour/
 - https://replay.software/echo
+- https://agentation.dev/colophon
+- https://www.dip.org/
