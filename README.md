@@ -116,3 +116,9 @@
 - https://replay.software/echo
 - https://agentation.dev/colophon
 - https://www.dip.org/
+- https://mistral.ai/
+- https://kilo.ai/
+- https://opencode.ai/
+- https://cline.bot/
+- https://lettera.md/
+- https://agents.cloudflare.com/
