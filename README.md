@@ -122,3 +122,4 @@
 - https://cline.bot/
 - https://lettera.md/
 - https://agents.cloudflare.com/
+- https://poolside.ai/
