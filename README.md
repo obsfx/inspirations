@@ -128,3 +128,4 @@
 - https://useblueprints.ai/
 - https://askshepherd.ai/
 - https://machine0.io/
+- https://bentolabs.ai/
