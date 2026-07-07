@@ -126,3 +126,4 @@
 - https://withmarble.com/
 - https://polylane.com/
 - https://useblueprints.ai/
+- https://askshepherd.ai/
