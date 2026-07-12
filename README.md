@@ -131,3 +131,4 @@
 - https://bentolabs.ai/
 - https://runinfra.ai/
 - https://selfimproving.dev/this-book.html
+- https://bestdesignsonx.com/
