@@ -132,3 +132,4 @@
 - https://runinfra.ai/
 - https://selfimproving.dev/this-book.html
 - https://bestdesignsonx.com/
+- https://thinkingmachines.ai/news/introducing-inkling/
